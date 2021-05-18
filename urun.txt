@@ -1,0 +1,3 @@
+1                  10           dizÅstÅpc              lenova                  i7                 2gb                 8gb                 1tb             windows                 250                2800
+3                  12        masaÅstÅkasa                  hp                  i3                 2gb                 4gb              1tbhdd             windows                  20                 450
+5                   8              laptop                asus                  i5                 2gb                 8gb              1tbhdd             windows                  50                2500
